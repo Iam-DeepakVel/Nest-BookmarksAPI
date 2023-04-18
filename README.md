@@ -57,4 +57,4 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
+If you'd like to get in touch with me to discuss potential collaborations or projects, please feel free to visit my website at ✨ https://deepakwings.netlify.app. I'm always open to exploring new opportunities and ideas, and would be happy to hear from you.
